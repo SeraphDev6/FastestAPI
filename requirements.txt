@@ -7,3 +7,4 @@ pyjwt
 pytest
 passlib
 bcrypt
+python-multipart
